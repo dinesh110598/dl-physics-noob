@@ -1,2 +1,3 @@
-# dl-physics-noob
-Tutorials (and some personal perspective) on deep learning and it's applications in physics
+# Deep learning - in the eyes of a noob physicist
+
+A bunch of tutorials and some perspective on deep learning in the perspective 
